@@ -1,26 +1,26 @@
 [
   {
     "py/object": "model.project.Project",
-    "name": "Name_BJo43do",
-    "status": "development",
-    "inherit_global_categories": null,
-    "view_status": "public",
-    "description": "Desc_MxsHLlgpTEK9 nG  CU08iO gw 5Ba  GQ6Yk"
-  },
-  {
-    "py/object": "model.project.Project",
-    "name": "Name_FVV  H47Y",
+    "name": "Name_EoSSWDzUL",
     "status": "release",
     "inherit_global_categories": null,
     "view_status": "public",
-    "description": "Desc_ 0me yqvaf ZmIfSW pjat 5kZWb bSdYMP o  N6C3Z 94QbvN"
+    "description": "Desc_xxFaagNnYecZ mTxFZ5LLGq HP mxC7srXPL0WLBsFO"
   },
   {
     "py/object": "model.project.Project",
-    "name": "Name_aKXjy",
+    "name": "Name_wmi",
+    "status": "obsolete",
+    "inherit_global_categories": null,
+    "view_status": "public",
+    "description": "Desc_iElRIso JG1fGX  1dzakO "
+  },
+  {
+    "py/object": "model.project.Project",
+    "name": "Name_uZUI",
     "status": "obsolete",
     "inherit_global_categories": null,
     "view_status": "private",
-    "description": "Desc_x1negpCBOY7kWtLwjXWX DhcJcT KTHnV czebK  CHqO8W  PJ "
+    "description": "Desc_l1DQJZm 8A R vyFI43mpQ8iR5TVDuY Lx   ST 3 TJ f8cZ5Ors1Ks  2btOfL1 vwx5pc I6 b49s8  x "
   }
 ]

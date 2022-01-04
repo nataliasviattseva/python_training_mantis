@@ -42,6 +42,7 @@ class ProjectHelper:
         wd.find_element_by_xpath("//input[@value='Create New Project']").click()
         self.fill_project_form(project_data)
         wd.find_element_by_xpath("//input[@value='Add Project']").click()
+        self.project_cache = None
 
     def select_project_by_name(self, name):
         wd = self.app.wd
@@ -53,6 +54,7 @@ class ProjectHelper:
         self.select_project_by_name(name)
         wd.find_element_by_xpath("//input[@value='Delete Project']").click()
         wd.find_element_by_xpath("//input[@value='Delete Project']").click()  # confirm
+        self.project_cache = None
 
     project_cache = None
 

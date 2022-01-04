@@ -21,7 +21,7 @@ class Project:
     def __eq__(self, other):
         return self.name is None or other.name is None or self.name == other.name
 
-    def id_or_max(self):
+    def name_or_max(self):
         if self.name:
             return self.name
         else:
