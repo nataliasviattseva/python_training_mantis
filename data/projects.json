@@ -1,0 +1,26 @@
+[
+  {
+    "py/object": "model.project.Project",
+    "name": "Name_BJo43do",
+    "status": "development",
+    "inherit_global_categories": null,
+    "view_status": "public",
+    "description": "Desc_MxsHLlgpTEK9 nG  CU08iO gw 5Ba  GQ6Yk"
+  },
+  {
+    "py/object": "model.project.Project",
+    "name": "Name_FVV  H47Y",
+    "status": "release",
+    "inherit_global_categories": null,
+    "view_status": "public",
+    "description": "Desc_ 0me yqvaf ZmIfSW pjat 5kZWb bSdYMP o  N6C3Z 94QbvN"
+  },
+  {
+    "py/object": "model.project.Project",
+    "name": "Name_aKXjy",
+    "status": "obsolete",
+    "inherit_global_categories": null,
+    "view_status": "private",
+    "description": "Desc_x1negpCBOY7kWtLwjXWX DhcJcT KTHnV czebK  CHqO8W  PJ "
+  }
+]
