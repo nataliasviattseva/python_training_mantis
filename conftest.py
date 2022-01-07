@@ -28,11 +28,8 @@ def config(request):
 def app(request, config):
     global fixture
     browser = request.config.getoption("--browser")
-    web_config = config['web']
-    user_login = config['webadmin']
     if fixture is None or not fixture.is_valid():
-        fixture = Application(browser=browser, base_url=web_config['baseUrl'])
-    # fixture.session.ensure_login(username=user_login['username'], password=user_login['password'])
+        fixture = Application(browser=browser, config=config)
     return fixture
 
 
