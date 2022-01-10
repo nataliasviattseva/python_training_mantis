@@ -1,26 +1,26 @@
 [
   {
     "py/object": "model.project.Project",
-    "name": "Name_EoSSWDzUL",
+    "name": "Name_zh8 h",
     "status": "release",
     "inherit_global_categories": null,
     "view_status": "public",
-    "description": "Desc_xxFaagNnYecZ mTxFZ5LLGq HP mxC7srXPL0WLBsFO"
+    "description": "Desc_AnL gnvm"
   },
   {
     "py/object": "model.project.Project",
-    "name": "Name_wmi",
+    "name": "Name_WYsM ",
+    "status": "development",
+    "inherit_global_categories": null,
+    "view_status": "public",
+    "description": "Desc_nl x TMY f sxAJMfR cNMMI6pq  yqFI  2WFINE kdEqXtfoXHG6MCfrCw2apyThCfQoxW yQZ  "
+  },
+  {
+    "py/object": "model.project.Project",
+    "name": "Name_",
     "status": "obsolete",
     "inherit_global_categories": null,
     "view_status": "public",
-    "description": "Desc_iElRIso JG1fGX  1dzakO "
-  },
-  {
-    "py/object": "model.project.Project",
-    "name": "Name_uZUI",
-    "status": "obsolete",
-    "inherit_global_categories": null,
-    "view_status": "private",
-    "description": "Desc_l1DQJZm 8A R vyFI43mpQ8iR5TVDuY Lx   ST 3 TJ f8cZ5Ors1Ks  2btOfL1 vwx5pc I6 b49s8  x "
+    "description": "Desc_W u uxF7DpE K1Iu0E5tW  bWWIhuXFHxaZ1HMSESeevALU8RexLb sD4"
   }
 ]
